@@ -28,8 +28,8 @@ def get_tweets():
 st.set_page_config(
     page_title="Bots", 
     )
-st.title("Elons latest Tweets")
-btn = st.button("Get latest tweets")
+st.title("Elon Musk latest Tweets")
+btn = st.button("Refresh")
 
 if btn:
     st.balloons()
