@@ -44,3 +44,6 @@ if btn:
         st.write(timestamps[i])
         st.write(newstr)
         i+=1
+    
+    st.markdown("---")
+    st.markdown("[Visit the Github Repo](https://github.com/moerv9/bots)")
