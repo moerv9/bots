@@ -5,3 +5,6 @@ tweepy
 pyOpenSSl
 python-dateutil
 openpyxl
+numpy
+beautifulsoup4
+urllib3
